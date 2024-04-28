@@ -1,0 +1,12 @@
+adwaita-dark
+google-chrome
+linux-fsync-nobara-bin
+polychromatic
+r-quick-share-bin
+sddm-theme-tokyo-night
+spicetify-cli
+spotify
+themechanger-git
+wlogout
+yay
+yay-debug
